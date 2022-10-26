@@ -1,0 +1,6 @@
+venv/
+UserData
+venvName
+.env
+__pycache__
+.vscode
